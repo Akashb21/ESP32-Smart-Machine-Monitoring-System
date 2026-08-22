@@ -141,7 +141,7 @@ Relay Status: OFF
 
 ### Hardware Setup
 
-![Hardware Setup](circuit.jpg)
+![Hardware Setup](circuit.png)
 
 ### Serial Monitor Alert Output
 
